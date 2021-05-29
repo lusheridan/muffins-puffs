@@ -1,0 +1,14 @@
+@import "colores";
+
+#form {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	background-color: #ecdee5;
+	color: $color--heliotrope-gray;
+	font-weight: bold;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}

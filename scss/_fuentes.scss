@@ -1,0 +1,26 @@
+@import "_colores.scss";
+
+body {
+	font-family: 'Raleway', sans-serif;
+    p {
+        color: $color--dark-violet;
+        font-weight: bold;
+    }
+}
+
+h1 {
+	width: 100%;
+	text-align: center;
+	color: $color--heliotrope-gray;
+	border: 20px;
+	border: none;
+}
+
+h2 {
+	width: 100%;
+	text-align: center;
+	background-color: $color--heliotrope-gray;
+	font-size: 25px;
+	color: $color--white;
+	border: none;
+}
